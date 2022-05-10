@@ -9,16 +9,13 @@ SOLUTION: `/^#?([a-f0-9]{6}|[a-f0-9]{3})$/`
 
 ## Table of Contents
 
+- [Regex Components](#regex-components)
 - [Anchors](#anchors)
 - [Quantifiers](#quantifiers)
 - [Grouping Constructs](#grouping-constructs)
 - [Bracket Expressions](#bracket-expressions)
-- [Character Classes](#character-classes)
-- [The OR Operator](#the-or-operator)
-- [Flags](#flags)
-- [Character Escapes](#character-escapes)
 
-## Regex Components
+### Regex Components
 
 Please see the breakdown of the comonents needed for this RegEx Expression :)
 
