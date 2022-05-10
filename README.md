@@ -16,14 +16,14 @@ SOLUTION: `/^#?([a-f0-9]{6}|[a-f0-9]{3})$/`
 - [Bracket Expressions](#bracket-expressions)
 
 ### Regex Components
-
-Please see the breakdown of the comonents needed for this RegEx Expression :)
-
-( ) = using parenthesis groups components together
-[ ] = brackets lets you specify unique characters allowed
- -  = the dash sets a range of values
-{ } = curlies let you set a range or quantity of allowed components
- |  = pipes are equivalent to an "OR" statement
+  
+Please see the breakdown of the comonents needed for this RegEx Expression :)  
+  
+( ) = using parenthesis groups components together  
+[ ] = brackets lets you specify unique characters allowed  
+ -  = the dash sets a range of values  
+{ } = curlies let you set a range or quantity of allowed components  
+ |  = pipes are equivalent to an "OR" statement  
 
 ### Anchors
 
